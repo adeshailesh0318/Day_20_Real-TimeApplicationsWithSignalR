@@ -1,0 +1,6 @@
+@SignalRChatAPI_HostAddress = http://localhost:5286
+
+GET {{SignalRChatAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
